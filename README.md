@@ -34,8 +34,8 @@ SPARQL queries with reasonable complexity is possible in such a challenging sett
 ├── results       # result folder 
 requirements.txt  # packages used: output from ```pip freeze > requirements.txt```
 data_utils.py	  # data utils	
-prompts.py		  # prompt templates 
-main.py			  # main file for running experiments
+prompts.py	  # prompt templates 
+main.py	          # main file for running experiments
 ```
 
 
