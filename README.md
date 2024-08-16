@@ -30,8 +30,8 @@ SPARQL queries with reasonable complexity is possible in such a challenging sett
 
 
 ```python
-+-- data          # the folder contains data used for experiments
-+-- results       # result folder 
+├── data          # the folder contains data used for experiments
+├── results       # result folder 
 requirements.txt  # packages used: output from ```pip freeze > requirements.txt```
 data_utils.py	  # data utils	
 prompts.py		  # prompt templates 
