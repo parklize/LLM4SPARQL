@@ -1,5 +1,5 @@
 # Toward Exploring Knowledge Graphs with LLMs
-This repository contains the implementation for the poster - "Toward Exploring Knowledge Graphs with LLMs", [SEMANTiCS](https://semantics.cc/)'24.
+This repository contains the implementation for the poster - "[Toward Exploring Knowledge Graphs with LLMs](https://parklize.github.io/publications/Semantics2024.pdf)", [SEMANTiCS](https://semantics.cc/)'24.
 
 
 
