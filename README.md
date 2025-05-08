@@ -21,8 +21,9 @@ SPARQL queries with reasonable complexity is possible in such a challenging sett
 
 ## Main environments
 
-* Python 3.11.0
-* Others can be found in ```requirements.txt```
+[![Python](https://img.shields.io/badge/python-3.11.0-blue?logo=python&logoColor=gold)](https://pypi.org/project/besser-agentic-framework/) 
+
+Others can be found in ```requirements.txt```
 
 
 
